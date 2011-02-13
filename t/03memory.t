@@ -2,8 +2,6 @@
 
 # t/02memory.t
 #  Tests that there are no memory leaks
-#
-# $Id$
 
 use strict;
 use warnings;

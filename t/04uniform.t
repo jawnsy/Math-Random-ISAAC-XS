@@ -2,8 +2,6 @@
 
 # t/03uniform.t
 #  Checks that the generated sequence is a uniform distribution
-#
-# $Id$
 
 use strict;
 use warnings;

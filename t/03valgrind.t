@@ -2,8 +2,6 @@
 
 # t/02valgrind.t
 #  Tests that there are no memory leaks using valgrind
-#
-# $Id$
 
 use strict;
 use warnings;

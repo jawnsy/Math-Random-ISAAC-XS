@@ -2,8 +2,6 @@
 
 # t/02sequence.t
 #  Checks that the generated sequence matches the reference
-#
-# $Id$
 
 use strict;
 use warnings;

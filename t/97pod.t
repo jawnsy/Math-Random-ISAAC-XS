@@ -2,8 +2,6 @@
 
 # t/97pod.t
 #  Checks that POD commands are correct
-#
-# $Id$
 
 use strict;
 use warnings;

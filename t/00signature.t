@@ -2,8 +2,6 @@
 
 # t/00signature.t
 #  Test that the SIGNATURE matches the distribution
-#
-# $Id$
 
 use strict;
 use warnings;

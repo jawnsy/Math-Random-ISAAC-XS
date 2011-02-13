@@ -2,8 +2,6 @@
 
 # t/99kwalitee.t
 #  Uses the CPANTS Kwalitee metrics to test the distribution
-#
-# $Id$
 
 use strict;
 use warnings;

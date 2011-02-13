@@ -2,8 +2,6 @@
 
 # Build.PL
 #  Script to build and install this distribution
-#
-# $Id$
 
 use strict;
 use warnings;

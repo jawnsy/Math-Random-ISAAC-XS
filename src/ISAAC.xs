@@ -3,8 +3,6 @@
  * This is a Perl XS interface to the original ISAAC reference implementation,
  * written by Bob Jenkins and released into the public domain circa 1996.
  * See `LICENSE' for details.
- *
- * $Id$
  */
 
 #include "EXTERN.h"

@@ -2,8 +2,6 @@
 
 # t/99min-perl.t
 #  Tests that the minimum required Perl version matches META.yml
-#
-# $Id$
 
 use strict;
 use warnings;

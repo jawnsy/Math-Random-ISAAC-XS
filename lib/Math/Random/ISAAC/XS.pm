@@ -1,7 +1,5 @@
 # Math::Random::ISAAC::XS
 #  Interface to the ISAAC Pseudo-Random Number Generator
-#
-# $Id$
 
 package Math::Random::ISAAC::XS;
 
@@ -14,7 +12,7 @@ Math::Random::ISAAC::XS - C implementation of the ISAAC PRNG Algorithm
 
 =head1 VERSION
 
-Version 1.002 ($Id$)
+Version 1.002
 
 =cut
 

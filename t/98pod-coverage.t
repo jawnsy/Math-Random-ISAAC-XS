@@ -2,8 +2,6 @@
 
 # t/98pod-coverage.t
 #  Ensures all subroutines are documented with POD
-#
-# $Id$
 
 use strict;
 use warnings;

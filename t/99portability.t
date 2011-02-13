@@ -2,8 +2,6 @@
 
 # t/99portability.t
 #  Tests if the distribution seems to be portable
-#
-# $Id$
 
 use strict;
 use warnings;

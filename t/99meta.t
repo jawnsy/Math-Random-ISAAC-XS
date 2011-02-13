@@ -2,8 +2,6 @@
 
 # t/01meta.t
 #  Tests that the META.yml meets the specification
-#
-# $Id$
 
 use strict;
 use warnings;
