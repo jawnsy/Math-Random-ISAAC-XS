@@ -1,7 +1,6 @@
 #!/usr/bin/perl -T
 
-# t/02sequence.t
-#  Checks that the generated sequence matches the reference
+# Check the generated sequence against the reference implementation
 
 use strict;
 use warnings;

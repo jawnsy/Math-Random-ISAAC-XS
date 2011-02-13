@@ -1,7 +1,6 @@
 #!/usr/bin/perl -T
 
-# t/02memory.t
-#  Tests that there are no memory leaks
+# Test for memory leaks
 
 use strict;
 use warnings;

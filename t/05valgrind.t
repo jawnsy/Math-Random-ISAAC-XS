@@ -1,7 +1,6 @@
 #!/usr/bin/perl
 
-# t/02valgrind.t
-#  Tests that there are no memory leaks using valgrind
+# Checks for memory leaks using valgrind
 
 use strict;
 use warnings;
