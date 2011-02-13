@@ -14,6 +14,10 @@
 \bDESCRIP.MMS$
 \bdescrip.mms$
 
+# Source object files
+^src/.*\.o$
+^lib/Math/Random/ISAAC/XS\.(o|c|xs)$
+
 # Avoid Makemaker generated and utility files.
 \bMANIFEST\.bak
 \bMakefile$
