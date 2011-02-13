@@ -1,5 +1,7 @@
 {{$NEXT}}
 
+1.003     2011-02-13 14:54:07 America/Toronto
+
           Migrate package to Dist::Zilla format
 
 1.002     2011-02-13
