@@ -45,10 +45,6 @@ my $builder = Module::Build->new(
   license               => 'unrestricted',
   dist_version_from     => 'lib/Math/Random/ISAAC/XS.pm',
   dynamic_config        => 1,
-  create_readme         => 0,
-  recursive_test_files  => 1,
-  sign                  => 1,
-  create_packlist       => 1,
 
   # Location of our special C and XS source files
   c_source => 'src',
@@ -62,7 +58,6 @@ my $builder = Module::Build->new(
 ##{ $plugin->get_prereqs ##}
 
   add_to_cleanup => [ 'Math-Random-ISAAC-XS-*' ],
-  script_files => [],
 );
 
 $builder->create_build_script();

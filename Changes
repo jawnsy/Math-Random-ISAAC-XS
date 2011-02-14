@@ -1,5 +1,8 @@
 {{$NEXT}}
 
+          Lower Module::Build requirement to 0.2808_01, we successfully
+          built with this version for 1.001.
+
 1.003     2011-02-13 14:54:07 America/Toronto
 
           Migrate package to Dist::Zilla format
