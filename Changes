@@ -1,5 +1,10 @@
 {{$NEXT}}
 
+1.004     2011-02-17 22:04:28 America/Toronto
+
+          Correct dependencies to indicate Math::Random::ISAAC
+          is a runtime dependency (thanks rjbs)
+
           Lower Module::Build requirement to 0.2808_01, we successfully
           built with this version for 1.001.
 
